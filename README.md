@@ -17,3 +17,6 @@ Port: 1099
 If the port 1099 is already reserved by other process then /SMF_ChatServer/src/StartServer.java file should be modified with other port number. Replace 1099 with other port number that does not seem to be busy in other process.
 
 
+### Snapshot
+![alt text](https://github.com/smfarjad/Java-RMI-Chatroom/snap.jpg?raw=true)
+
