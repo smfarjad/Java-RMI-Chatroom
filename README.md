@@ -18,5 +18,5 @@ If the port 1099 is already reserved by other process then /SMF_ChatServer/src/S
 
 
 ### Snapshot
-![alt text](https://github.com/smfarjad/Java-RMI-Chatroom/snap.jpg?raw=true)
+![alt text](https://github.com/smfarjad/Java-RMI-Chatroom/blob/master/snap.jpg?raw=true)
 
